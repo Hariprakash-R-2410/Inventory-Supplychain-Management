@@ -5,6 +5,7 @@ Efficient supply chain and inventory operations are critical for maintaining bus
 
 By transforming raw supply chain records into an interactive data narrative, this dashboard allows operational managers to quickly identify regional bottlenecks, optimize warehouse storage capacity, and track sales performance over multi-year periods.
 
+![Inventory and Supplychain Management Analysis](Inventory%20%26%20Supply%20Chain%20Management.png)
 ---
 
 ## 🛠️ Tech Stack & Skills Demonstrated
